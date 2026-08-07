@@ -23,7 +23,6 @@ React • JavaScript • UI Design • AI Enthusiast
 Olá!
 
 Sou um estudante do curso de Inteligência Artificial da Universidade Federal do Oeste do Pará(UFOPA), Campus Tapajós. Tenho interesse em programação e tecnologia.
-
 Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript moderno** e desenvolvimento de interfaces responsivas.
 
 Tenho interesse em:
@@ -35,11 +34,9 @@ Tenho interesse em:
 
 Estou construindo projetos constantemente para evoluir minhas habilidades e criar um portfólio sólido.
 
----
-
 # Tech Stack
 
-## Linguagens
+## Linguagens - Frameworks - Ferramentas
 
 <p align="center">
 
@@ -49,66 +46,17 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 
 </p>
 
-## Frameworks
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
 </p>
 
-## Ferramentas
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
 
 </p>
-
-# Atualmente estudando
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="250">
-
-### React
-
-Construindo interfaces modernas e componentizadas.
-
-</td>
-
-<td align="center" width="250">
-
-### JavaScript ES6+
-
-Domínio de recursos modernos da linguagem.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Responsividade
-
-Layouts adaptáveis para qualquer dispositivo.
-
-</td>
-
-
-<td align="center">
-
-### Git Flow
-
-Versionamento profissional utilizando Git.
-
-</td>
-
-</tr>
 
 # Contato
 
