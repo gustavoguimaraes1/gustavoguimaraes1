@@ -178,9 +178,9 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavoguimaraes&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavoguimaraes1&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguimaraes&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguimaraes1&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF"/>
 
 </div>
 
@@ -190,7 +190,7 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 
 <div align="center">
 
-<img src="https://github.com/gustavoguimaraes/gustavoguimaraes/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/gustavoguimaraes1/gustavoguimaraes1/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -202,11 +202,11 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 
 <div align="center">
 
-<a href="https://github.com/gustavoguimaraes">
+<a href="https://github.com/gustavoguimaraes1">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@EMAIL.COM">
+<a href="gustavo1guimaraess@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
