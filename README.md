@@ -9,7 +9,7 @@
 <img width="100%" alt="Banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Gustavo+Guimar%C3%A3es;Front-End+Developer" />
 
 <h3>
-Front-End Developer<br>
+<br>
 React • JavaScript • UI Design • AI Enthusiast
 </h3>
 
@@ -25,7 +25,7 @@ React • JavaScript • UI Design • AI Enthusiast
 
 Olá!
 
-Sou um estudante apaixonado por programação e tecnologia.
+Sou um estudante do curso de Inteligência Artificial da Universidade Federal do Oeste do Pará(UFOPA), Campus Tapajós. Tenho interesse em programação e tecnologia.
 
 Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript moderno** e desenvolvimento de interfaces responsivas.
 
@@ -96,14 +96,6 @@ Domínio de recursos modernos da linguagem.
 
 </td>
 
-<td align="center" width="250">
-
-### Consumo de APIs
-
-Integração com serviços REST.
-
-</td>
-
 </tr>
 
 <tr>
@@ -116,13 +108,6 @@ Layouts adaptáveis para qualquer dispositivo.
 
 </td>
 
-<td align="center">
-
-### Acessibilidade
-
-Interfaces inclusivas seguindo boas práticas.
-
-</td>
 
 <td align="center">
 
@@ -174,40 +159,12 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 
 ---
 
-# Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavoguimaraes1&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoguimaraes1&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# Contribuições
-
-<div align="center">
-
-<img src="https://github.com/gustavoguimaraes1/gustavoguimaraes1/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> **Observação:** para a animação funcionar, substitua `gustavoguimaraes` pelo seu **nome de usuário exato do GitHub** em todos os links acima e configure o workflow do Snake.
-
----
-
 # Contato
 
 <div align="center">
 
 <a href="https://github.com/gustavoguimaraes1">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="gustavo1guimaraess@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -221,7 +178,7 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 <br>
 
 <sub>
-Desenvolvido com Markdown, HTML e SVG para um perfil limpo, moderno e profissional.
+Desenvolvido com Markdown, HTML e SVG.
 </sub>
 
 </div>
