@@ -9,7 +9,6 @@
 <img width="100%" alt="Banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Gustavo+Guimar%C3%A3es;Front-End+Developer" />
 
 <h3>
-<br>
 React • JavaScript • UI Design • AI Enthusiast
 </h3>
 
