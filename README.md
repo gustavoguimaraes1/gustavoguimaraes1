@@ -18,8 +18,6 @@ React • JavaScript • UI Design • AI Enthusiast
 
 </div>
 
----
-
 # Sobre mim
 
 Olá!
@@ -111,42 +109,6 @@ Versionamento profissional utilizando Git.
 </td>
 
 </tr>
-
-</table>
-
-# Projetos em destaque
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-## AgroVision
-
-Projeto focado em interfaces modernas para soluções voltadas ao agronegócio, utilizando boas práticas de desenvolvimento Front-End.
-
-</td>
-
-<td width="33%">
-
-## Projetos React
-
-Coleção de aplicações desenvolvidas durante os estudos para consolidar conhecimentos em componentes, estados e consumo de APIs.
-
-</td>
-
-<td width="33%">
-
-## Landing Pages
-
-Landing Pages responsivas com foco em design moderno, performance e experiência do usuário.
-
-</td>
-
-</tr>
-
-</table>
 
 # Contato
 
