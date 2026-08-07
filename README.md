@@ -6,15 +6,10 @@
 <div align="center">
 
 <!-- Banner SVG -->
-<img width="100%" alt="Banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=1&pause=1000&color=32CD32&center=true&vCenter=true&repeat=false&width=1200&height=120&lines=Gustavo+Guimar%C3%A3es;Developer" />
-
-<h3>
-React • JavaScript • UI Design • AI Enthusiast
-</h3>
-
+<img width="100%" alt="Banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=1200&height=150&lines=Gustavo+Guimar%C3%A3es;React+%E2%80%A2+JavaScript+%E2%80%A2+UI+Design+%E2%80%A2+AI+Enthusiast" />
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=850&lines=Transformando+ideias+em+interfaces+modernas.;Aprendendo+React+todos+os+dias.;Construindo+projetos+para+evoluir+como+desenvolvedor.;Tecnologia%2C+Design+e+Intelig%C3%AAncia+Artificial." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Transformando+ideias+em+interfaces+modernas.;Aprendendo+React+todos+os+dias.;Construindo+projetos+para+evoluir+como+desenvolvedor.;Tecnologia%2C+Design+e+Intelig%C3%AAncia+Artificial." />
 
 </div>
 
