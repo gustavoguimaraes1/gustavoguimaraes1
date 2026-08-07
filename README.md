@@ -51,8 +51,6 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 
 </p>
 
----
-
 ## Frameworks
 
 <p align="center">
@@ -61,8 +59,6 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 
 </p>
 
----
-
 ## Ferramentas
 
 <p align="center">
@@ -70,8 +66,6 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
 
 </p>
-
----
 
 # Atualmente estudando
 
@@ -120,8 +114,6 @@ Versionamento profissional utilizando Git.
 
 </table>
 
----
-
 # Projetos em destaque
 
 <table>
@@ -156,8 +148,6 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 
 </table>
 
----
-
 # Contato
 
 <div align="center">
@@ -167,8 +157,6 @@ Landing Pages responsivas com foco em design moderno, performance e experiência
 </a>
 
 </div>
-
----
 
 <div align="center">
 
