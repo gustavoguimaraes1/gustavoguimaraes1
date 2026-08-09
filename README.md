@@ -1,66 +1,49 @@
-<!-- ========================================================= -->
-<!--                 GITHUB PROFILE README                      -->
-<!--        Desenvolvido para Gustavo Guimarães                -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- Banner SVG -->
-<img width="100%" alt="Banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=1200&height=150&lines=Gustavo+Guimar%C3%A3es;React+%E2%80%A2+JavaScript+%E2%80%A2+UI+Design+%E2%80%A2+AI+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F4C5C,50:1F7A8C,100:4FD1C5&text=Gustavo%20Guimarães&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn"/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4500&pause=1200&color=23DAED&center=true&vCenter=true&width=900&lines=Deixe+sua+marca+no+mundo;Construa+algo+que+fa%C3%A7a+seu+nome+ser+lembrado;A+IA+n%C3%A3o+substitui+a+criatividade,+ela+potencializa+quem+cria;Open+Source+%E2%80%A2+React+%E2%80%A2+Intelig%C3%AAncia+Artificial"
+  alt="Typing SVG"
+/>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Transformando+ideias+em+interfaces+modernas.;Aprendendo+React+todos+os+dias.;Construindo+projetos+para+evoluir+como+desenvolvedor.;Tecnologia%2C+Design+e+Intelig%C3%AAncia+Artificial." />
+<img src="https://komarev.com/ghpvc/?username=gustavoguimaraes1&style=for-the-badge&color=0F4C5C"/>
 
 </div>
 
+
 # Sobre mim
 
-Olá!
+Olá! 🖖
 
-Sou um estudante do curso de Inteligência Artificial da Universidade Federal do Oeste do Pará(UFOPA), Campus Tapajós. Tenho interesse em programação e tecnologia.
-Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript moderno** e desenvolvimento de interfaces responsivas.
-
-Tenho interesse em:
-
-- Inteligência Artificial
-- UI/UX Design
-- Gesture Recognition
-- Desenvolvimento Web Moderno
-
-Estou construindo projetos constantemente para evoluir minhas habilidades e criar um portfólio sólido.
-
-# Tech Stack
-
-## Linguagens - Frameworks - Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
-<img src="https://img.shields.io/badge/TeXStudio-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
-
-</p>
-
-### Aprender • Desenvolver • Praticar
-
-<br>
-
-<sub>
-Desenvolvido com Markdown, HTML e SVG.
-</sub>
+Sou estudante de **Inteligência Artificial** na **Universidade Federal do Oeste do Pará (UFOPA) – Campus Tapajós**.
+Tenho grande interesse por tecnologia, programação e desenvolvimento de inovação.
+Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript Moderno** e **Desenvolvimento Web**, buscando criar interfaces elegantes, acessíveis e responsivas.
 
 
+<div align="center">
+
+## Áreas de Interesse
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F4C5C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Front--end-1F7A8C?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gesture%20Recognition-4FD1C5?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+
+</div>
+
+<div align="center">
+
+# Ferramentas de desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vscode,figma,linux"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&lenght=5550&section=footer&color=0:4FD1C5,50:1F7A8C,100:0F4C5C"/>
 
 </div>
