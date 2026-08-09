@@ -53,18 +53,6 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 
 </p>
 
-# Contato
-
-<div align="center">
-
-<a href="https://github.com/gustavoguimaraes1">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
 ### Aprender • Desenvolver • Praticar
 
 <br>
@@ -72,5 +60,7 @@ Estou construindo projetos constantemente para evoluir minhas habilidades e cria
 <sub>
 Desenvolvido com Markdown, HTML e SVG.
 </sub>
+
+
 
 </div>
