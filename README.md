@@ -37,8 +37,7 @@ Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript Mode
 <div align="center">
 
 # Ferramentas de desenvolvimento
-<img src="./pacman_by_metalfire8_dae9eku.gif" width="90"/>
-&nbsp;
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vscode,figma,linux"/>
 
 </div>
