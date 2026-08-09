@@ -24,7 +24,7 @@ Atualmente estou aprofundando meus conhecimentos em **React**, **JavaScript Mode
 
 <div align="center">
 
-## Áreas de Interesse
+## Tecnologias de Interesse
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F4C5C?style=for-the-badge&logo=openai&logoColor=white"/>
 
