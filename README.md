@@ -13,6 +13,9 @@
 
 Olá! 🖖
 
+Sou estudante de **Inteligência Artificial**, com interesse em **desenvolvimento de software, sistemas Linux e tecnologias emergentes**.
+Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco na construção de projetos práticos e no aprimoramento contínuo de habilidades técnicas.
+
 <div align="center">
 
 ## Tecnologias de Interesse
