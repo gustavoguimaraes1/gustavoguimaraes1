@@ -1,12 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7FBF00,50:A8E10C,100:C6FF3D&text=Gustavo%20Augusto&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn"/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4500&pause=1200&color=ffffff&center=true&vCenter=true&width=900&lines=Deixe+sua+marca+no+mundo;Construa+algo+que+fa%C3%A7a+seu+nome+ser+lembrado;A+IA+n%C3%A3o+substitui+a+criatividade,+ela+potencializa+quem+cria;Open+Source+%E2%80%A2+React+%E2%80%A2+Intelig%C3%AAncia+Artificial"
-  alt="Typing SVG"
-/>
-
 </div>
 
 # Sobre mim
@@ -167,7 +160,5 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:C6FF3D,50:A8E10C,100:7FBF00"/>
 
 </div>
