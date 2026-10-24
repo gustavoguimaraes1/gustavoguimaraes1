@@ -143,19 +143,6 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <div align="center">
 
-# Social Networks
-
-<a href="https://www.youtube.com/@Ginuxos">
-  <img src="https://img.shields.io/badge/YouTube-C6FF3D?style=for-the-badge&logo=youtube&logoColor=151515"/>
-</a>
-
-<a href="https://www.instagram.com/gustaguimaraess?igsi=MTN5YzY2amlxZjlvcA==">
-  <img src="https://img.shields.io/badge/Instagram-C6FF3D?style=for-the-badge&logo=instagram&logoColor=151515"/>
-</a>
-
-<a href="mailto:gustavo1guimaraess@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C6FF3D?style=for-the-badge&logo=gmail&logoColor=151515"/>
-</a>
 
 </div>
 
