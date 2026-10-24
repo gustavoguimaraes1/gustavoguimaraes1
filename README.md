@@ -144,7 +144,9 @@ Atualmente, concentro meus estudos em **Python, desenvolvimento web e fundamento
 
 ### InnovaLab
 
-<img src="URL_DA_LOGO_DO_INNOVALAB" width="130"/>
+<a href="https://innovalab-ufopa.vercel.app/" target="_blank">
+  <img src="./2.svg" width="130" alt="InnovaLab"/>
+</a>
 
 </td>
 
@@ -161,8 +163,6 @@ Projeto desenvolvido para representar digitalmente o **InnovaLab**, com foco em 
 <br>
 
 `React` `Tailwind CSS` `Motion` `Firebase` `npm` `Vite`
-
-**Repositório** • **Deploy**
 
 </td>
 
