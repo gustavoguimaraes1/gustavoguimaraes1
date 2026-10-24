@@ -1,23 +1,27 @@
 <div align="center">
 
+# Gustavo Guimarães
+
+**Artificial Intelligence • Front-end Development • Linux**
+
 </div>
 
-# Sobre mim
+## Sobre mim
 
 Olá! 🖖
 
-Sou estudante de **Inteligência Artificial**, com interesse em **desenvolvimento de software, sistemas Linux e tecnologias emergentes**.
-Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco na construção de projetos práticos e no aprimoramento contínuo de habilidades técnicas.
+Sou estudante de **Inteligência Artificial**, com interesse em **desenvolvimento de software, Machine Learning, reconhecimento de gestos e sistemas Linux**.
+
+Atualmente, concentro meus estudos em **Python e desenvolvimento web**, construindo projetos práticos com foco em evolução técnica, boas práticas e resolução de problemas.
 
 <div align="center">
 
-## Tecnologias de Interesse
+## Áreas de Interesse
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-C6FF3D?style=for-the-badge&logo=openai&logoColor=151515"/>
-
 <img src="https://img.shields.io/badge/Front--end-C6FF3D?style=for-the-badge&logo=react&logoColor=151515"/>
-
 <img src="https://img.shields.io/badge/Gesture%20Recognition-C6FF3D?style=for-the-badge&logo=mediapipe&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Linux-C6FF3D?style=for-the-badge&logo=linux&logoColor=151515"/>
 
 </div>
 
@@ -25,15 +29,14 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <div align="center">
 
-# Development Tools
+## Development Tools
 
 <table>
-
 <tr>
 
 <td align="center" width="50%">
 
-<h3>Main Language</h3>
+### Main Language
 
 <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
@@ -41,13 +44,13 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <br>
 
-<strong>Python</strong>
+**Python**
 
 </td>
 
 <td align="center" width="50%">
 
-<h3>Current Distribution</h3>
+### Current Distribution
 
 <a href="https://archlinux.org/">
   <img src="https://skillicons.dev/icons?i=arch" width="48" alt="Arch Linux"/>
@@ -55,7 +58,7 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <br>
 
-<strong>Arch Linux</strong>
+**Arch Linux**
 
 </td>
 
@@ -65,7 +68,7 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <td align="center" width="50%">
 
-<h3>Front-end</h3>
+### Front-end
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>
@@ -87,54 +90,25 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
 </a>
 
+<br><br>
+
+<strong>HTML • CSS • JavaScript • React • Tailwind CSS</strong>
+
 </td>
 
 <td align="center" width="50%">
 
-<h3>System Experience</h3>
+### Tools
 
-<a href="https://ubuntu.com/">
-  <img src="https://img.shields.io/badge/Ubuntu-C6FF3D?style=flat-square&logo=ubuntu&logoColor=151515"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode" alt="Git, GitHub, Vite and VS Code"/>
 
-<a href="https://www.debian.org/">
-  <img src="https://img.shields.io/badge/Debian-C6FF3D?style=flat-square&logo=debian&logoColor=151515"/>
-</a>
+<br><br>
 
-<a href="https://linuxmint.com/">
-  <img src="https://img.shields.io/badge/Linux%20Mint-C6FF3D?style=flat-square&logo=linuxmint&logoColor=151515"/>
-</a>
-
-<a href="https://lubuntu.me/">
-  <img src="https://img.shields.io/badge/Lubuntu-C6FF3D?style=flat-square&logo=lubuntu&logoColor=151515"/>
-</a>
-
-<br>
-
-<a href="https://mxlinux.org/">
-  <img src="https://img.shields.io/badge/MX%20Linux-C6FF3D?style=flat-square&logo=linux&logoColor=151515"/>
-</a>
-
-<a href="https://xubuntu.org/">
-  <img src="https://img.shields.io/badge/Xubuntu-C6FF3D?style=flat-square&logo=xubuntu&logoColor=151515"/>
-</a>
-
-<a href="https://fedoraproject.org/">
-  <img src="https://img.shields.io/badge/Fedora-C6FF3D?style=flat-square&logo=fedora&logoColor=151515"/>
-</a>
-
-<a href="https://pop.system76.com/">
-  <img src="https://img.shields.io/badge/Pop!__OS-C6FF3D?style=flat-square&logo=popos&logoColor=151515"/>
-</a>
-
-<a href="https://www.microsoft.com/windows/">
-  <img src="https://img.shields.io/badge/Windows-C6FF3D?style=flat-square&logo=windows11&logoColor=151515"/>
-</a>
+<strong>Git • GitHub • Vite • VS Code</strong>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -143,9 +117,21 @@ Atualmente, concentro meus estudos em **Python e desenvolvimento web**, com foco
 
 <div align="center">
 
+## System Experience
+
+<img src="https://img.shields.io/badge/Arch%20Linux-C6FF3D?style=flat-square&logo=archlinux&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Ubuntu-C6FF3D?style=flat-square&logo=ubuntu&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Debian-C6FF3D?style=flat-square&logo=debian&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Fedora-C6FF3D?style=flat-square&logo=fedora&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Linux%20Mint-C6FF3D?style=flat-square&logo=linuxmint&logoColor=151515"/>
+<img src="https://img.shields.io/badge/Windows-C6FF3D?style=flat-square&logo=windows11&logoColor=151515"/>
 
 </div>
 
+---
+
 <div align="center">
+
+**Construindo, abstraindo e aprendendo.**
 
 </div>
