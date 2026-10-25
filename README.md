@@ -1,7 +1,5 @@
 <div align="center">
 
-# Gustavo Guimarães
-
 ### Artificial Intelligence • Front-end • Linux • Machine Learning
 
 </div>
